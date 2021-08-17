@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Debadyuti Karmakar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A software developer from India. I’m pursuing my Bachelors in Computer Science & Engineering. 👨‍💻 I am passionate about DSA, Web Dev, Blockchain & I enjoy learning new things.</h3>
 
 <p align="left"> <a href="https://twitter.com/debadyutitech" target="blank"><img src="https://img.shields.io/twitter/follow/debadyutitech?logo=twitter&style=for-the-badge" alt="debadyutitech" /></a> </p>
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 🤝 I’m looking for help with **DevOps**
 
 - 📫 How to reach me **debadyuti.karmakar@gmail.com**
 
