@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/debadyuti-karmakar/](https://www.linkedin.com/in/debadyuti-karmakar/)
 
-![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
+![](https://komarev.com/ghpvc/?username=DEBADYUTI-KARMAKAR&color=009DAE)
 <br>
 
 
