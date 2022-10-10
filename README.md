@@ -13,9 +13,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/debadyuti-karmakar/](https://www.linkedin.com/in/debadyuti-karmakar/)
 
-![](https://komarev.com/ghpvc/?username=DEBADYUTI-KARMAKAR&color=009DAE)
-<br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
