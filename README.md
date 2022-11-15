@@ -2,8 +2,7 @@
 <h3 align="center">A software developer from India with skills in Java, Data structures and Algorithms ,Web Development . I’m pursuing my Bachelors in Computer Science & Engineering. 👨‍💻I enjoy learning new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <a href="https://twitter.com/debadyutitech" target="blank"><img src="https://img.shields.io/twitter/follow/debadyutitech?logo=twitter&style=for-the-badge" alt="debadyutitech" /></a> </p>
-![](https://komarev.com/ghpvc/?username=
-DEBADYUTI-KARMAKAR&color=009DAE)
+![](https://komarev.com/ghpvc/?username=DEBADYUTI-KARMAKAR&color=009DAE)
 <br>
 
 
