@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cinema-Walla**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 💬 Ask me about **JAVA DSA WEB DEV**
 
