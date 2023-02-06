@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Book-Record-Management**
 
-- 🌱 I’m currently learning **ASP.NET**
-
 - 💬 Ask me about **JAVA DSA WEB DEV**
 
 - 📫 How to reach me **debadyuti.karmakar@gmail.com**
