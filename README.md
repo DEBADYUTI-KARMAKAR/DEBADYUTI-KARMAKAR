@@ -6,8 +6,6 @@
 
 ![](https://komarev.com/ghpvc/?username=DEBADYUTI-KARMAKAR&color=009DAE)
 
-- 🔭 I’m currently working on **Book-Record-Management**
-
 - 💬 Ask me about **JAVA DSA WEB DEV**
 
 - 📫 How to reach me **debadyuti.karmakar@gmail.com**
