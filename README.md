@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEBADYUTI</h1>
-<h3 align="center">A Software Seveloper, Freelancer, Web Developer, Software Trainer from India with skills in Java, JavaScript, Data structures and Algorithms , Web Development. 👨‍💻I enjoy learning new things.</h3>
+<h3 align="center">A Software Developer, Freelancer, Web Developer, Software Trainer from India with skills in Java, JavaScript, Data structures and Algorithms , Web Development. 👨‍💻I enjoy learning new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <a href="https://twitter.com/debadyutitech" target="blank"><img src="https://img.shields.io/twitter/follow/debadyutitech?logo=twitter&style=for-the-badge" alt="debadyutitech" /></a> </p>
 <br>
