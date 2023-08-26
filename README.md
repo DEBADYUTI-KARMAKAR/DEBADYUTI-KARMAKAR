@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DEBADYUTI-KARMAKAR&color=009DAE)
 
-- 💬 Ask me about **JAVA DSA WEB DEVELOPMENT**
+- 💬 Ask me about **JAVA JavaScript WEB DEVELOPMENT**
 
 - 📫 How to reach me **debadyuti.karmakar@gmail.com**
 
