@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JAVA JavaScript WEB DEVELOPMENT**
 
-- 📫 How to reach me **debadyuti.karmakar@gmail.com**
+- 📫 How to reach me **debadyutitech@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/debadyuti-karmakar/](https://www.linkedin.com/in/debadyuti-karmakar/)
 
